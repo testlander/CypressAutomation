@@ -1,0 +1,12 @@
+{
+    "defaultCommandTimeout": 6000,
+    "pageLoad": 10000,
+    "env":
+    {
+        "url": "https://rahulshettyacademy.com/angularpractice/",
+        "urlSelenium": "https://rahulshettyacademy.com/seleniumPractise/#/",
+        "urlAutomation": "https://rahulshettyacademy.com/AutomationPractice/",
+        "urlQaClickAcademy": "http://qaclickacademy.com/practice.php",
+        "urlTestlanderDemo": "https://testlander.co.uk/automation-demo" 
+    }
+}
